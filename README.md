@@ -1,7 +1,7 @@
 # 🔐 SOC Lab - SSH Brute Force Detection using Splunk
 
 ## 📌 Objective
-To simulate and detect SSH brute-force attacks using Splunk SIEM by analyzing authentication logs.
+This project simulates a real-world SSH brute-force attack and demonstrates how it can be detected using Splunk SIEM.
 
 ---
 
