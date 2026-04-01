@@ -37,7 +37,7 @@ To simulate and detect SSH brute-force attacks using Splunk SIEM by analyzing au
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 Attack Simulation
 ![Nmap Scan](Running Nmap.png)
@@ -58,7 +58,7 @@ Successfully simulated a real-world SSH brute-force attack and detected it using
 
 ---
 
-## 💡 Skills Gained
+##  Skills Gained
 - Log Analysis  
 - SIEM (Splunk)  
 - Threat Detection  
